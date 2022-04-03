@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Benjamin Hussy",
+    "review": "Wow!! this is such an amazing product",
+    "rating": 4.5,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images/main/images/benjamin-hussy.jfif"
+  },
+  {
+    "id": 2,
+    "name": "David Lucay",
+    "review": "I just love this product, thanks who made this",
+    "rating": 4.0,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images/main/images/david-lucay.jfif"
+  },
+  {
+    "id": 3,
+    "name": "Jack Aiden",
+    "review": "This is great!!",
+    "rating": 3.5,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images/main/images/jack-aiden.jfif"
+  },
+  {
+    "id": 4,
+    "name": "James Lara",
+    "review": "I am really happy to have this product",
+    "rating": 3.0,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images/main/images/james-lara.jfif"
+  },
+  {
+    "id": 5,
+    "name": "Jhon Smith",
+    "review": "This is one of the best product I have ever seen",
+    "rating": 5.0,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images/main/images/jhon-smith.jfif"
+  },
+  {
+    "id": 6,
+    "name": "Michael Clark",
+    "review": "This is okk but I want more features",
+    "rating": 2.5,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images/main/images/michael-clark.jfif"
+  },
+ {
+    "id": 7,
+    "name": "Oliver Lium",
+    "review": "The quality of this product is superve",
+    "rating": 4.0,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images/main/images/oliver-lium.jfif"
+  },
+  {
+    "id": 8,
+    "name": "Robert Lucas",
+    "review": "Yes I like it, the design of this product attract me most",
+    "rating": 4.5,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images/main/images/robert-lucas.jfif"
+  },
+  {
+    "id": 9,
+    "name": "Willium Henry",
+    "review": "Just awesome I love this product",
+    "rating": 5.0,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/images/main/images/willium-henry.jfif"
+  }
+]
